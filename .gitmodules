@@ -1,0 +1,3 @@
+[submodule "fast-hash"]
+	path = fast-hash
+	url = git@github.com:ZilongTan/fast-hash.git
